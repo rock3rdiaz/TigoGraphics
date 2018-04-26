@@ -1,0 +1,6 @@
+
+include 'domain',
+'rest-api',
+'soap-client',
+'ui'
+		
