@@ -11,5 +11,7 @@ dependencies {
 	
 	compile library.slf4j_api
 	compile library.slf4j_jdk
+	
+	compile ('javax:javaee-api:6.0')
 
 }

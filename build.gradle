@@ -8,6 +8,12 @@
 allprojects{
 	apply from: "${rootProject.projectDir}/libraries.gradle"
 }
+
+dependencies {
+}
+
+
+
 /* -------------------------------- */
 /* - Include other gradle scripts - */
 /* -------------------------------- */
